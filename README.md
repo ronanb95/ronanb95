@@ -1,4 +1,6 @@
-### Hi there 👋
+### Hi there, welcome to my github 👋
+
+My name is Ronan Byrne and I am from Dublin, Ireland. I recently graduated with an MSc in Computer Science from University College Dublin (UCD). This profile should highlight some of the exciting things that I worked on whilst studying. For example, I am particularly proud of my thesis project, DublinBus. 
 
 
 - 🔭 I’m currently working on ...
