@@ -5,9 +5,9 @@ My name is Ronan Byrne and I am from Dublin, Ireland. I recently graduated with 
 The technologies that can be seen on the projects displayed on this profile include:
 
 - Backend development using Python with both Django (DublinBus, ShelfSense) and Flask (CycleBerry)
-- Frontend Development in HTML, CSS and Javascript with and without external libraries
-- Database administration with MySQL
-- Machine Learning through Python using Sci-Kit Learn
+- Frontend Development in HTML, CSS and Javascript with and without external libraries (DublinBUs, CycleBerry, ShelfSense)
+- Database administration with MySQL (DublinBus, CycleBerry)
+- Machine Learning through Python using Sci-Kit Learn (AlgorithmBias)
 
 🌱 I’m currently learning React and hope to get some projects up and running in the near future.
 
