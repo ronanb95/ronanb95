@@ -9,7 +9,13 @@ The technologies that can be seen on the projects displayed on this profile incl
 - Database administration with MySQL
 - Machine Learning through Python using Sci-Kit Learn
 
-- 🌱 I’m currently learning React and hope to get some projects up and running in the near future
+🌱 I’m currently learning React and hope to get some projects up and running in the near future.
+
+📫 How to reach me: ronan.byrne1@ucdconnect.ie
+
+<a href="https://www.linkedin.com/[removed]" rel="nofollow noreferrer">
+    <img src="https://i.stack.imgur.com/gVE0j.png" alt="linkedin"> LinkedIn
+  </a> &nbsp; 
 
 
 <!--
