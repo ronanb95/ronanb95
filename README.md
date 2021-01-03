@@ -13,7 +13,7 @@ The technologies that can be seen on the projects displayed on this profile incl
 
 📫 You can shoot me an email here: ronan.byrne1@ucdconnect.ie
 
-or check out my LinkedIn here: <a href="https://www.linkedin.com/[removed]" rel="nofollow noreferrer"><img src="https://i.stack.imgur.com/gVE0j.png" alt="linkedin"> LinkedIn </a> 
+Or check out my LinkedIn here: <a href="https://www.linkedin.com/in/ronan-byrne-7311921a8/" rel="nofollow noreferrer"><img src="https://i.stack.imgur.com/gVE0j.png" alt="linkedin"> LinkedIn </a> 
 
 
 <!--
