@@ -11,11 +11,9 @@ The technologies that can be seen on the projects displayed on this profile incl
 
 🌱 I’m currently learning React and hope to get some projects up and running in the near future.
 
-📫 How to reach me: ronan.byrne1@ucdconnect.ie
+📫 You can shoot me an email here: ronan.byrne1@ucdconnect.ie
 
-<a href="https://www.linkedin.com/[removed]" rel="nofollow noreferrer">
-    <img src="https://i.stack.imgur.com/gVE0j.png" alt="linkedin"> LinkedIn
-  </a> &nbsp; 
+or check out my LinkedIn here: <a href="https://www.linkedin.com/[removed]" rel="nofollow noreferrer"><img src="https://i.stack.imgur.com/gVE0j.png" alt="linkedin"> LinkedIn </a> 
 
 
 <!--
