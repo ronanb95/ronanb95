@@ -1,6 +1,6 @@
 ### Hi there, welcome to my github 👋
 
-My name is Ronan Byrne and I am from Dublin, Ireland. I am an experienced software developer having spent over a year as a backend developer at Citi Bank, Dublin.  
+My name is Ronan Byrne and I am from Dublin, Ireland. I am an experienced software developer (Java / Spring) having spent over a year at Citi Bank, Dublin.  
 
 In late 2020 I graduated with an MSc in Computer Science from University College Dublin (UCD). As part of my time studying I worked on some exciting projects, some of which can be seen below. For example, I am particularly proud of my thesis project, DublinBus. Since graduating I have been working as a Backend Engineer (Java / Spring) with Citi Bank, Dublin.
 
