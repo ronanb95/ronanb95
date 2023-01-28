@@ -2,15 +2,15 @@
 
 My name is Ronan Byrne and I am from Dublin, Ireland. I am an experienced software developer having spent over a year as a backend developer at Citi Bank, Dublin.  
 
-In late 2020 I graduated with an MSc in Computer Science from University College Dublin (UCD). As part of my time studying I worked on some exciting projects, some of which can be seen below. For example, I am particularly proud of my thesis project, DublinBus.  The technologies that can be seen on the projects displayed on this profile include:
+In late 2020 I graduated with an MSc in Computer Science from University College Dublin (UCD). As part of my time studying I worked on some exciting projects, some of which can be seen below. For example, I am particularly proud of my thesis project, DublinBus. Since graduating I have been working as a Backend Engineer (Java / Spring) with Citi Bank, Dublin.
 
-- Backend development using Python with both Django (DublinBus, ShelfSense) and Flask (CycleBerry) and using Ruby on Rails (rails_url_shortener)
+The technologies that can be seen on the projects displayed on this profile include:
+
+- Backend development using Java with Spring (Spring Code Resuse) and Python with both Django (DublinBus, ShelfSense) and Flask (CycleBerry)
 - Frontend Development in HTML, CSS and Javascript with and without external libraries (DublinBus, CycleBerry, ShelfSense)
-- Database administration with MySQL (DublinBus, CycleBerry)
+- Database administration with MySQL (DublinBus, CycleBerry) and MongoDB (Spring Code Resuse)
 - Machine Learning through Python using Sci-Kit Learn (AlgorithmBias)
 - Test driven development (TDD) and a focus on scalability
-
-I have also updated this profile more recently to include some projects personal projects that I have been working on such as a project that focuses on the reuse of code in Spring using the @ComponentScan annotaion.
 
 📫 You can shoot me an email here: ronan.byrne1@ucdconnect.ie
 
