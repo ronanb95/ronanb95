@@ -12,7 +12,7 @@ The technologies that can be seen on the projects displayed on this profile incl
 - Machine Learning through Python using Sci-Kit Learn (AlgorithmBias)
 - Test driven development (TDD) and a focus on scalability
 
-📫 You can shoot me an email here: ronan.byrne1@ucdconnect.ie
+📫 You can shoot me an email here: ronanbyrne.dev@gmail.com
 
 Or check out my LinkedIn here: <a href="https://www.linkedin.com/in/ronan-byrne-7311921a8/" rel="nofollow noreferrer"><img src="https://i.stack.imgur.com/gVE0j.png" alt="linkedin"> LinkedIn </a> 
 
