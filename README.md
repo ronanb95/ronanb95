@@ -2,15 +2,7 @@
 
 My name is Ronan Byrne and I am from Dublin, Ireland. I am an experienced software developer (Java / Kotlin / Python) currently working with Quandoo in Berlin and having spent time at Citi Bank in Dublin.  
 
-The technologies that can be seen on the projects displayed on this profile include:
-
-- Backend development using Java with Spring (Spring Code Resuse) and Python with both Django (DublinBus, ShelfSense) and Flask (CycleBerry)
-- Frontend Development in HTML, CSS and Javascript with and without external libraries (DublinBus, CycleBerry, ShelfSense)
-- Database administration with MySQL (DublinBus, CycleBerry) and MongoDB (Spring Code Resuse)
-- Machine Learning through Python using Sci-Kit Learn (AlgorithmBias)
-- Test driven development (TDD) and a focus on scalability
-
-📫 You can shoot me an email here: ronanbyrne.dev@gmail.com
+📫 You can send me an email here: ronanbyrne.dev@gmail.com
 
 Or check out my LinkedIn here: <a href="https://www.linkedin.com/in/ronan-byrne-7311921a8/" rel="nofollow noreferrer"><img src="https://i.stack.imgur.com/gVE0j.png" alt="linkedin"> LinkedIn </a> 
 
