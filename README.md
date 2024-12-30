@@ -1,6 +1,4 @@
-### Hi there, welcome to my github 👋
-
-My name is Ronan Byrne and I am from Dublin, Ireland. I am an experienced software developer (Java / Kotlin / Python) currently working with Quandoo in Berlin and having spent time at Citi Bank in Dublin.  
+### My name is Ronan Byrne and I am from Dublin, Ireland. I am an experienced software developer (Java / Kotlin / Python) currently working with Cityswift and having spent time at both Quandoo in Berlin and Citi Bank in Dublin.  
 
 📫 You can send me an email here: ronanbyrne.dev@gmail.com
 
